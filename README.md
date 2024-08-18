@@ -1,10 +1,10 @@
 # TOSCANI TENEKEU
 
-Welcome to my GitHub profile! I'm Toscani Tenekeu, a passionate Full-Stack Developer and UI/UX Designer with a love for crafting beautiful and functional digital experiences.
+Welcome to my GitHub profile! I'm Toscani Tenekeu, a passionate Front-end Developer and UI/UX Designer with a love for crafting beautiful and functional digital experiences.
 
 ## About Me
 
-With a background in programming and a keen eye for design, I specialize in creating seamless and engaging user interfaces while handling the complexities of full-stack development. My goal is to bridge the gap between aesthetics and functionality to deliver top-notch web and application solutions.
+With a background in programming and a keen eye for design, I specialize in creating seamless and engaging user interfaces while handling the complexities of Front-end development. My goal is to bridge the gap between aesthetics and functionality to deliver top-notch web and application solutions.
 
 ## Skills
 
