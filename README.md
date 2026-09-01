@@ -1,4 +1,4 @@
-# Toscani Tenekeu
+# Toscani TENEKEU
 
 Founder & CEO at [KmerHosting](https://kmerhosting.com).
 
